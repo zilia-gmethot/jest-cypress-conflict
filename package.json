@@ -28,6 +28,7 @@
     "@angular/cli": "~15.2.0",
     "@angular/compiler-cli": "~15.2.0",
     "@angular/language-service": "~15.2.0",
+    "@badeball/cypress-cucumber-preprocessor": "18.0.5",
     "@cypress/webpack-dev-server": "^2.0.0",
     "@nrwl/cypress": "15.9.2",
     "@nrwl/eslint-plugin-nx": "15.9.2",
